@@ -1,17 +1,17 @@
-const logotext = "JOHN";
+const logotext = "Hassan Sohail";
 const meta = {
-    title: "John Doe",
-    description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
+    title: "Hassan Sohail",
+    description: "I’m Hassan Sohail, a computer science student",
 };
 
 const introdata = {
-    title: "I’m John Doe",
+    title: "I’m Hassan Sohail",
     animated: {
         first: "I love coding",
         second: "I code cool websites",
         third: "I develop mobile apps",
     },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
+    description: "I'm hassan,I'm a computer science student. I love playing PUBG.",
     your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
 
@@ -145,12 +145,12 @@ const contactConfig = {
 };
 
 const socialprofils = {
-    github: "https://github.com",
-    facebook: "https://facebook.com",
-    linkedin: "https://linkedin.com",
-    twitter: "https://twitter.com",
-    youtube: "https://youtube.com",
-    twitch: "https://twitch.com",
+//     github: "https://github.com",
+//     facebook: "https://facebook.com",
+//     linkedin: "https://linkedin.com",
+//     twitter: "https://twitter.com",
+    youtube: "https://www.youtube.com/channel/UCwCOaxWCYr9vcnB2XDt7-Qg",
+    // twitch: "https://twitch.com",
 };
 export {
     meta,
